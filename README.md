@@ -1,5 +1,6 @@
 # Customer_Behavior_Analysis
-Data Analytics project showcasing customer behavior analysis using python, sql and power bi.
+Data Analytics project showcasing customer behavior analysis using Python, SQL and Power BI.
+
 🔍 Overview
 
 This project demonstrates an end-to-end data analytics workflow, covering data extraction, exploration, cleaning, querying, visualization, and reporting.
@@ -9,14 +10,14 @@ The project follows real-world analytics practices using Python, SQL (MySQL), an
 
 📁 Dataset
 
-Source: (Public dataset / Kaggle / Internal / Mock dataset — update as needed)
+Source: Public dataset
 
 Format: CSV
 
 Data Type: Structured
 
 Description:
-The dataset contains records related to (sales / customers / transactions / operations — customize here) and is used to analyze trends, patterns, and key performance metrics.
+The dataset contains records related to (sales / customers / transactions / operations) and is used to analyze trends, patterns, and key performance metrics.
 
 🛠 Tools & Technologies
 
@@ -105,8 +106,6 @@ Category-wise and segment-wise performance
 
 User-friendly filters and slicers for exploration
 
-(Add screenshots of the Power BI dashboard here if available)
-
 📊 Results & Insights
 
 Identified key trends and patterns in the data
@@ -157,5 +156,4 @@ End-to-End Data Analytics Workflow
 📬 Contact
 
 Author: Pradnesh Mahale
-Role: Aspiring Data Analyst / Data Engineer
-LinkedIn / GitHub: (Add links here)
+LinkedIn: www.linkedin.com/in/pradnesh-mahale 
